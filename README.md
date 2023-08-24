@@ -1,10 +1,11 @@
 # MIN SEON GYU 😉
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-seon-gyu&count_bg=%239FBDFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<!--
 ![MIN-SEONGYU GitHub stats](https://github-readme-stats.vercel.app/api?username=min-seon-gyu&show_icons=true)
+-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/min-seon-gyu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-seon-gyu)](https://github.com/min-seon-gyu)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhaksd)](https://solved.ac/jhaksd)
 # 💪Skills
