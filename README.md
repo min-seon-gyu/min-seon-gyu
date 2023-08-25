@@ -20,5 +20,5 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&link=https://velog.io/@gcael/)](https://velog.io/@gcael/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minseongyu26@gmail.com)](mailto:minseongyu26@gmail.com)
+[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&link=https://velog.io/@gcael/)](https://velog.io/@gcael/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:minseongyu26@gmail.com)](mailto:minseongyu26@gmail.com)
