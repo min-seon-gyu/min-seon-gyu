@@ -23,4 +23,3 @@
 # :mailbox_with_mail: Contacts
 [![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@gcael/)](https://velog.io/@gcael/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:minseongyu26@gmail.com)](mailto:minseongyu26@gmail.com)
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
