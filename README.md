@@ -20,5 +20,5 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@gcael/)](https://velog.io/@gcael/)
+[![Velog](http://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&link=https://velog.io/@gcael/)](https://velog.io/@gcael/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minseongyu26@gmail.com)](mailto:minseongyu26@gmail.com)
